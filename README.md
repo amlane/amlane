@@ -8,8 +8,8 @@ Now go to bed, my brain is mush
 ---
 
 🔭 **Currently working on**
-- A new portfolio
-- A personal blog to share my thoughts, hobbies, and projects
+- A new [portfolio](https://reallycoolcoder.netlify.app/) to share my projects
+- A [personal blog](https://reallycoolblog.netlify.app/) to share my reflections and personal interests
 
 🌱 **Currently learning**
 - Data Structures & Algorithms using Golang
