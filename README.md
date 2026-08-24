@@ -12,10 +12,10 @@ Now go to bed, my brain is mush
 - A [personal blog](https://reallycoolblog.netlify.app/) to share my reflections and personal interests
 
 🌱 **Currently learning**
-- Data Structures & Algorithms using Golang
+- Data Structures & Algorithms
 - Design systems (and how to build good ones)
 - Dabbling in various JavaScript libraries/frameworks (React with Vite & SvelteKit)
-- Agentic programming to support my learning and automate tasks
+- Agentic programming to support my learning and automate workflows
 
 👯 **Looking to collaborate on** solving difficult problems that improve people's well-being
 
