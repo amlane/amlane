@@ -8,14 +8,14 @@ Now go to bed, my brain is mush
 ---
 
 🔭 **Currently working on**
-- A new [portfolio](https://reallycoolcoder.netlify.app/) to share my projects
-- A [personal blog](https://reallycoolblog.netlify.app/) to share my reflections and personal interests
+- A [portfolio](https://reallycoolcoder.netlify.app/) to share my projects
+- Craftloop: Store your crochet/knitting pattern notes and generate them into a PDF that can be uploaded to popular marketplaces like Etsy & Ravelry. Actively in development and will be deployed to production soon. Check out the [frontend](https://github.com/amlane/craftloop) and [backend](https://github.com/amlane/craftloop-api) repositories. 
 
 🌱 **Currently learning**
 - Data Structures & Algorithms
-- Design systems (and how to build good ones)
-- Dabbling in various JavaScript libraries/frameworks (React with Vite & SvelteKit)
+- Building with various JavaScript libraries/frameworks (React with Vite & SvelteKit)
 - Agentic programming to support my learning and automate workflows
+- Design systems (and how to build good ones)
 
 👯 **Looking to collaborate on** solving difficult problems that improve people's well-being
 
